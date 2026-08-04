@@ -5,7 +5,7 @@ function checkResult() {
 
     // CHANGE THESE TO YOUR OWN VALUES
     const correctReg = "04232045937";
-    const correctRoll = "370628";
+    const correctRoll = "473773";
 
     // User can enter EITHER registration OR roll number
     if (reg === correctReg || roll === correctRoll) {
